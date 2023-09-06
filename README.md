@@ -5,4 +5,4 @@
 | Luis Barranco | Naguanagua |
 | Fabiola Montilla | Caracas |
 | Jose Serrano | Charallave |
-| Josephb R | Caracas |
+| Joseph R | Caracas |
